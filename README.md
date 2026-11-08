@@ -23,6 +23,7 @@ Originaly there are two tables
 I derived the third table **Location_ip** from access_log by using python code that takes address_ip and return locations.
 
 4. IP_count
+
 Is an aggrigated table that help me find Country with most nimber of logs.
 
 
